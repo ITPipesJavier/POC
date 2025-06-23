@@ -1,0 +1,4 @@
+C:\Users\lFJl\source\repos\POC\Repository.Tests\obj\Debug\Repository.UnitTests.csproj.AssemblyReference.cache
+C:\Users\lFJl\source\repos\POC\Repository.Tests\obj\Debug\Repository.UnitTests.gentestingplatformentrypointinputcache.cache
+C:\Users\lFJl\source\repos\POC\Repository.Tests\obj\Debug\Repository.UnitTests.genautoregisteredextensionsinputcache.cache
+C:\Users\lFJl\source\repos\POC\Repository.Tests\obj\Debug\Repository.UnitTests.csproj.CoreCompileInputs.cache

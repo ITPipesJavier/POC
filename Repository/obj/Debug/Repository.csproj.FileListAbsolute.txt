@@ -1,0 +1,9 @@
+C:\Users\lFJl\source\repos\POC\Repository\bin\Debug\Repository.dll
+C:\Users\lFJl\source\repos\POC\Repository\bin\Debug\Repository.pdb
+C:\Users\lFJl\source\repos\POC\Repository\bin\Debug\Domain.dll
+C:\Users\lFJl\source\repos\POC\Repository\bin\Debug\Domain.pdb
+C:\Users\lFJl\source\repos\POC\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\lFJl\source\repos\POC\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\lFJl\source\repos\POC\Repository\obj\Debug\Repository.csproj.Up2Date
+C:\Users\lFJl\source\repos\POC\Repository\obj\Debug\Repository.dll
+C:\Users\lFJl\source\repos\POC\Repository\obj\Debug\Repository.pdb
