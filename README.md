@@ -11,6 +11,7 @@ This project follows a **modular monolith** architecture using **Domain-Driven D
 
 ### 📦 Solution Structure
 ITpipes.sln
+
 ├── Connect # Desktop app (WPF)
 
 ├── Web # Web app (ASP.NET)
