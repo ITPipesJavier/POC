@@ -45,7 +45,7 @@ ITpipes.sln
 
 This repo uses **Flyway** for schema migrations:
 
-- Works with **SQL Server** (production) and **SQLite** (testing)
+- Works with **SQL Server** and **SQLite**
 - Migrations tracked in `/Database/Flyway/sql`
 - Supports CI/CD and local development environments
 
