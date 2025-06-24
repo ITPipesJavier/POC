@@ -12,15 +12,25 @@ This project follows a **modular monolith** architecture using **Domain-Driven D
 ### 📦 Solution Structure
 ITpipes.sln
 ├── Connect # Desktop app (WPF)
+
 ├── Web # Web app (ASP.NET)
+
 ├── Mobile # Optional mobile client
+
 ├── Domain # Shared entities, enums, value objects
+
 ├── Logic.Core # Business logic and domain services
+
 ├── Logic.Admin # Admin-specific logic
+
 ├── Repository # Persistence (SQL Server, SQLite)
+
 ├── Storage # File/blob storage interfaces + adapters
+
 ├── Integration # External APIs (GIS, Cityworks)
+
 ├── Repository.UnitTests # Unit tests
+
 ├── Repository.IntegrationTests# Integration tests
 
 
